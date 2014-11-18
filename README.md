@@ -1,4 +1,3 @@
-gallatin
+Ben's NYU Gallatin Life 
 ========
-
-The Stuff I Do at NYU Gallatin
+Thanks to @AbhiAgarwal for the idea.
