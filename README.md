@@ -17,7 +17,8 @@ _Thanks to [@AbhiAgarwal](http://github.com/AbhiAgarwal/gallatin) for the idea. 
   - Building For Learning (ITP)
   - New Media Research Studio (MCC)
   - Marketing (Poly)
-- **Spring 2015** (Work in Progress)
+- **Spring 2015**
   - Principles of Financial Accounting (Stern) 
-  - Data Structures (or some other CS class) (Poly)
-  - The Communication Revolution (Gallatin)
+  - Computer Networking (Poly)
+  - Tutorial - Creativity & Innovation (Gallatin)
+  - Networks, Crowds and Markets (Stern)
