@@ -22,3 +22,10 @@ _Thanks to [@AbhiAgarwal](http://github.com/AbhiAgarwal/gallatin) for the idea. 
   - Computer Networking (Poly)
   - Tutorial - Creativity & Innovation (Gallatin)
   - Networks, Crowds and Markets (Stern)
+- **Summer 2015**
+  - Classic Texts & Contemporary Culture (Gallatin)
+  - Cultural Politics of Childhood (Gallatin)
+- **Fall 2015**
+  - Introduction to Design I
+  - Interaction Design for Learning
+  - Creativity, Innovation, Entrepreneurship
