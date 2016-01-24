@@ -26,6 +26,10 @@ _Thanks to [@AbhiAgarwal](http://github.com/AbhiAgarwal/gallatin) for the idea. 
   - Classic Texts & Contemporary Culture (Gallatin)
   - Cultural Politics of Childhood (Gallatin)
 - **Fall 2015**
-  - Introduction to Design I
-  - Interaction Design for Learning
-  - Creativity, Innovation, Entrepreneurship
+  - Introduction to Design I (Art)
+  - Interaction Design for Learning (Steinhardt EdTech)
+  - Creativity, Innovation, Entrepreneurship (Gallatin)
+- **Spring 2016**
+  - Introduction to Design II (Art)
+  - Machine Learning for Cities (CUSP) 
+  - Tutorial - The Self and the Goodlife (Gallatin)
