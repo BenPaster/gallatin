@@ -31,7 +31,7 @@ _Thanks to [@AbhiAgarwal](http://github.com/AbhiAgarwal/gallatin) for the idea. 
   - Creativity, Innovation, Entrepreneurship (Gallatin)
 - **Spring 2016**
   - Introduction to Design II (Art)
-  - Projects in Programming (CUSP) 
+  - Projects in Programming (Stern) 
   - Tutorial - The Self and the Goodlife (Gallatin)
 - **Summer 2016**
   - Imagining The Middle East (Requirement - Gallatin)
