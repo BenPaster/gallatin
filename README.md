@@ -33,3 +33,9 @@ _Thanks to [@AbhiAgarwal](http://github.com/AbhiAgarwal/gallatin) for the idea. 
   - Introduction to Design II (Art)
   - Machine Learning for Cities (CUSP) 
   - Tutorial - The Self and the Goodlife (Gallatin)
+- **Summer 2016**
+  - Imagining The Middle East (Requirement - Gallatin)
+- **Fall 2016**
+  - Finance for Social Theorists (Gallatin)
+  - This Mediated Life (Requirement - Gallatin)
+  - Management and Organizations (Stern)
