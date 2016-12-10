@@ -31,7 +31,7 @@ _Thanks to [@AbhiAgarwal](http://github.com/AbhiAgarwal/gallatin) for the idea. 
   - Creativity, Innovation, Entrepreneurship (Gallatin)
 - **Spring 2016**
   - Introduction to Design II (Art)
-  - Machine Learning for Cities (CUSP) 
+  - Projects in Programming (CUSP) 
   - Tutorial - The Self and the Goodlife (Gallatin)
 - **Summer 2016**
   - Imagining The Middle East (Requirement - Gallatin)
